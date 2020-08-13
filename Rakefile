@@ -1,7 +1,7 @@
 task :greeting
   desc 'outputs hello to the terminal'
   task :hello do
-  puts "hello from Rake!"
+    puts "hello from Rake!"
   end
   desc 'outputs hola to the terminal'
   task :hola do
